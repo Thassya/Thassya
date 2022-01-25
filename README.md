@@ -10,8 +10,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thassya&layout=compact" height="180em">
 </div>
 
-##
+<!--- ##
 <div>
   ![Snake animation](https://github.com/thassya/thassya/blob/output/github-contribution-grid-snake.svg)
 </div>
+
+---->
 
