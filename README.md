@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working with .NET.
-- 🌱 I’m currently learning Flutter
 - 👯 I’m looking to collaborate on new projects and technologies.
 - 😄 Pronouns: she/her
 
